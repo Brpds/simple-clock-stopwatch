@@ -1,0 +1,5 @@
+additions to make later:
+treatment for time to be displayed as an actual clock
+visuals for lap timers (fastest, slowest)
+updates for previous values when there's a new fastest lap
+page visuals as a whole
